@@ -4,7 +4,7 @@
 			<img src="{{ $product['thumb'] }}">
 		</div>
 		<div>
-			<span class="text-white text-uppercase"></span>
+			<h6 class="text-white text-uppercase">{{ $product['title']}}</h6>
 		</div>
 	</div>
 
